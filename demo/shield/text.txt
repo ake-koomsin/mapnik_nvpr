@@ -1,0 +1,1621 @@
+ running demo ... 
+ looking for 'shape.input' plugin in... /usr/local/lib/mapnik//input/
+ looking for DejaVuSans font in... /usr/local/lib/mapnik//fonts/DejaVuSans.ttf
+S
+o
+r
+e
+l
+-
+T
+r
+a
+c
+y
+Sorel-Tracy÷›
+numnode : 11, len 14
+N
+a
+p
+i
+e
+r
+v
+i
+l
+l
+e
+Napierville÷›
+numnode : 11, len 14
+S
+a
+i
+n
+t
+e
+-
+V
+é
+r
+o
+n
+i
+q
+u
+e
+Sainte-VéroniqueÔ
+numnode : 16, len 17
+B
+o
+u
+c
+h
+e
+t
+t
+e
+Bouchettehs÷›
+numnode : 9, len 14
+N
+o
+m
+i
+n
+i
+n
+g
+u
+e
+Nominingues÷›
+numnode : 10, len 14
+S
+a
+i
+n
+t
+-
+D
+o
+n
+a
+t
+-
+d
+e
+-
+M
+o
+n
+t
+c
+a
+l
+m
+Saint-Donat-de-Montcalm
+numnode : 23, len 23
+S
+a
+i
+n
+t
+-
+O
+u
+r
+s
+Saint-Ourss÷›
+numnode : 10, len 14
+C
+o
+n
+t
+r
+e
+c
+o
+e
+u
+r
+Contrecoeur÷›
+numnode : 11, len 14
+J
+o
+l
+i
+e
+t
+t
+e
+JolietteØhs÷›
+numnode : 8, len 14
+L
+a
+c
+o
+l
+l
+e
+Lacolle
+numnode : 7, len 7
+C
+h
+a
+m
+b
+l
+y
+Chambly
+numnode : 7, len 7
+B
+e
+l
+o
+e
+i
+l
+Beloeil
+numnode : 7, len 7
+V
+a
+r
+e
+n
+n
+e
+s
+VarennesØhs÷›
+numnode : 8, len 14
+T
+e
+r
+r
+e
+b
+o
+n
+n
+e
+Terrebonnes÷›
+numnode : 10, len 14
+S
+a
+i
+n
+t
+-
+J
+é
+r
+ô
+m
+e
+Saint-Jérôme›
+numnode : 12, len 14
+P
+r
+é
+v
+o
+s
+t
+Prévost
+numnode : 7, len 7
+V
+a
+l
+-
+D
+a
+v
+i
+d
+Val-Davidhs÷›
+numnode : 9, len 14
+M
+o
+n
+t
+-
+T
+r
+e
+m
+b
+l
+a
+n
+t
+Mont-Tremblant
+numnode : 14, len 14
+L
+a
+b
+e
+l
+l
+e
+Labelle
+numnode : 7, len 7
+L
+'
+A
+n
+n
+o
+n
+c
+i
+a
+t
+i
+o
+n
+L'Annonciation
+numnode : 14, len 14
+R
+i
+p
+o
+n
+Ripon
+numnode : 5, len 5
+G
+r
+a
+c
+e
+f
+i
+e
+l
+d
+Gracefields÷›
+numnode : 10, len 14
+O
+t
+t
+e
+r
+ 
+L
+a
+k
+e
+Otter Lakes÷›
+numnode : 10, len 14
+S
+h
+a
+w
+v
+i
+l
+l
+e
+Shawvillehs÷›
+numnode : 9, len 14
+L
+a
+c
+-
+d
+e
+s
+-
+L
+o
+u
+p
+s
+Lac-des-Loups
+numnode : 13, len 14
+P
+e
+r
+k
+i
+n
+s
+Perkins
+numnode : 7, len 7
+B
+u
+c
+k
+i
+n
+g
+h
+a
+m
+Buckinghams÷›
+numnode : 10, len 14
+T
+h
+u
+r
+s
+o
+Thurso
+numnode : 6, len 6
+S
+a
+i
+n
+t
+-
+A
+n
+d
+r
+é
+-
+A
+v
+e
+l
+l
+i
+n
+Saint-André-Avellin
+numnode : 19, len 19
+P
+a
+p
+i
+n
+e
+a
+u
+v
+i
+l
+l
+e
+Papineauville
+numnode : 13, len 14
+S
+a
+i
+n
+t
+-
+A
+n
+d
+r
+é
+-
+E
+s
+t
+Saint-André-Est
+numnode : 15, len 15
+R
+i
+g
+a
+u
+d
+Rigaud
+numnode : 6, len 6
+S
+a
+i
+n
+t
+-
+E
+u
+s
+t
+a
+c
+h
+e
+Saint-Eustache
+numnode : 14, len 14
+S
+a
+i
+n
+t
+e
+-
+M
+a
+r
+t
+i
+n
+e
+Sainte-Martine
+numnode : 14, len 14
+H
+e
+m
+m
+i
+n
+g
+f
+o
+r
+d
+Hemmingford÷›
+numnode : 11, len 14
+H
+u
+n
+t
+i
+n
+g
+d
+o
+n
+Huntingdons÷›
+numnode : 10, len 14
+S
+a
+i
+n
+t
+-
+Z
+o
+t
+i
+q
+u
+e
+Saint-Zotique
+numnode : 13, len 14
+M
+e
+r
+r
+i
+c
+k
+v
+i
+l
+l
+e
+Merrickville›
+numnode : 12, len 14
+L
+a
+n
+c
+a
+s
+t
+e
+r
+Lancasterhs÷›
+numnode : 9, len 14
+M
+a
+r
+t
+i
+n
+t
+o
+w
+n
+Martintowns÷›
+numnode : 10, len 14
+C
+o
+r
+n
+w
+a
+l
+l
+CornwallØhs÷›
+numnode : 8, len 14
+G
+r
+e
+e
+n
+ 
+V
+a
+l
+l
+e
+y
+Green Valley›
+numnode : 12, len 14
+A
+p
+p
+l
+e
+ 
+H
+i
+l
+l
+Apple Hills÷›
+numnode : 10, len 14
+A
+l
+e
+x
+a
+n
+d
+r
+i
+a
+Alexandrias÷›
+numnode : 10, len 14
+G
+l
+e
+n
+ 
+R
+o
+b
+e
+r
+t
+s
+o
+n
+Glen Robertson
+numnode : 14, len 14
+M
+a
+x
+v
+i
+l
+l
+e
+MaxvilleØhs÷›
+numnode : 8, len 14
+S
+t
+.
+ 
+A
+n
+d
+r
+e
+w
+s
+St. Andrews÷›
+numnode : 11, len 14
+I
+n
+g
+l
+e
+s
+i
+d
+e
+Inglesidehs÷›
+numnode : 9, len 14
+N
+e
+w
+i
+n
+g
+t
+o
+n
+Newingtonhs÷›
+numnode : 9, len 14
+A
+v
+o
+n
+m
+o
+r
+e
+AvonmoreØhs÷›
+numnode : 8, len 14
+C
+r
+y
+s
+l
+e
+r
+Crysler
+numnode : 7, len 7
+C
+h
+e
+s
+t
+e
+r
+v
+i
+l
+l
+e
+Chesterville›
+numnode : 12, len 14
+W
+i
+l
+l
+i
+a
+m
+s
+b
+u
+r
+g
+Williamsburg›
+numnode : 12, len 14
+M
+o
+r
+r
+i
+s
+b
+u
+r
+g
+Morrisburgs÷›
+numnode : 10, len 14
+W
+i
+n
+c
+h
+e
+s
+t
+e
+r
+Winchesters÷›
+numnode : 10, len 14
+V
+a
+n
+k
+l
+e
+e
+k
+ 
+H
+i
+l
+l
+Vankleek Hill
+numnode : 13, len 14
+H
+a
+w
+k
+e
+s
+b
+u
+r
+y
+Hawkesburys÷›
+numnode : 10, len 14
+L
+e
+f
+a
+i
+v
+r
+e
+LefaivreØhs÷›
+numnode : 8, len 14
+A
+l
+f
+r
+e
+d
+Alfred
+numnode : 6, len 6
+P
+l
+a
+n
+t
+a
+g
+e
+n
+e
+t
+Plantagenet÷›
+numnode : 11, len 14
+C
+l
+a
+r
+e
+n
+c
+e
+ 
+C
+r
+e
+e
+k
+Clarence Creek
+numnode : 14, len 14
+H
+a
+m
+m
+o
+n
+d
+Hammond
+numnode : 7, len 7
+C
+a
+s
+s
+e
+l
+m
+a
+n
+Casselmanhs÷›
+numnode : 9, len 14
+R
+u
+s
+s
+e
+l
+l
+Russell
+numnode : 7, len 7
+V
+a
+r
+s
+Vars
+numnode : 4, len 4
+K
+e
+m
+p
+t
+v
+i
+l
+l
+e
+Kemptvilles÷›
+numnode : 10, len 14
+S
+p
+e
+n
+c
+e
+r
+v
+i
+l
+l
+e
+Spencerville›
+numnode : 12, len 14
+J
+o
+h
+n
+s
+t
+o
+w
+n
+Johnstownhs÷›
+numnode : 9, len 14
+P
+r
+e
+s
+c
+o
+t
+t
+PrescottØhs÷›
+numnode : 8, len 14
+S
+m
+i
+t
+h
+s
+ 
+F
+a
+l
+l
+s
+Smiths Falls›
+numnode : 12, len 14
+J
+a
+s
+p
+e
+r
+Jasper
+numnode : 6, len 6
+V
+e
+r
+n
+o
+n
+Vernon
+numnode : 6, len 6
+G
+r
+e
+e
+l
+y
+Greely
+numnode : 6, len 6
+O
+s
+g
+o
+o
+d
+e
+Osgoode
+numnode : 7, len 7
+N
+o
+r
+t
+h
+ 
+G
+o
+w
+e
+r
+North Gower÷›
+numnode : 11, len 14
+O
+t
+t
+a
+w
+a
+Ottawa
+numnode : 6, len 6
+K
+a
+n
+a
+t
+a
+Kanata
+numnode : 6, len 6
+S
+t
+i
+t
+t
+s
+v
+i
+l
+l
+e
+Stittsville÷›
+numnode : 11, len 14
+C
+a
+r
+p
+Carp
+numnode : 4, len 4
+C
+o
+n
+s
+t
+a
+n
+c
+e
+ 
+B
+a
+y
+Constance Bay
+numnode : 13, len 14
+F
+i
+t
+z
+r
+o
+y
+ 
+H
+a
+r
+b
+o
+u
+r
+Fitzroy Harbour
+numnode : 15, len 15
+A
+r
+n
+p
+r
+i
+o
+r
+ArnpriorØhs÷›
+numnode : 8, len 14
+A
+l
+m
+o
+n
+t
+e
+Almonte
+numnode : 7, len 7
+C
+a
+r
+l
+e
+t
+o
+n
+ 
+P
+l
+a
+c
+e
+Carleton Place
+numnode : 14, len 14
+F
+r
+a
+n
+k
+t
+o
+w
+n
+Franktownhs÷›
+numnode : 9, len 14
+P
+e
+r
+t
+h
+Perth
+numnode : 5, len 5
+R
+i
+d
+e
+a
+u
+ 
+F
+e
+r
+r
+y
+Rideau Ferry›
+numnode : 12, len 14
+O
+m
+p
+a
+h
+Ompah
+numnode : 5, len 5
+W
+h
+i
+t
+e
+ 
+L
+a
+k
+e
+White Lakes÷›
+numnode : 10, len 14
+C
+a
+l
+a
+b
+o
+g
+i
+e
+Calabogiehs÷›
+numnode : 9, len 14
+R
+e
+n
+f
+r
+e
+w
+Renfrew
+numnode : 7, len 7
+C
+l
+a
+r
+e
+n
+c
+e
+-
+R
+o
+c
+k
+l
+a
+n
+d
+Clarence-Rockland
+numnode : 17, len 18
+S
+t
+.
+ 
+I
+s
+i
+d
+o
+r
+e
+St. Isidore÷›
+numnode : 11, len 14
+O
+r
+l
+é
+a
+n
+s
+Orléans
+numnode : 7, len 7
+B
+r
+o
+w
+n
+s
+b
+u
+r
+g
+Brownsburgs÷›
+numnode : 10, len 14
+L
+a
+c
+-
+C
+a
+r
+r
+é
+Lac-Carréhs÷›
+numnode : 9, len 14
+I
+r
+o
+q
+u
+o
+i
+s
+IroquoisØhs÷›
+numnode : 8, len 14
+L
+o
+n
+g
+ 
+S
+a
+u
+l
+t
+Long Saults÷›
+numnode : 10, len 14
+M
+a
+r
+i
+o
+n
+v
+i
+l
+l
+e
+Marionville÷›
+numnode : 11, len 14
+M
+a
+n
+o
+t
+i
+c
+k
+ManotickØhs÷›
+numnode : 8, len 14
+M
+i
+d
+d
+l
+e
+v
+i
+l
+l
+e
+Middleville÷›
+numnode : 11, len 14
+L
+a
+n
+a
+r
+k
+Lanark
+numnode : 6, len 6
+O
+r
+m
+s
+t
+o
+w
+n
+OrmstownØhs÷›
+numnode : 8, len 14
+S
+a
+i
+n
+t
+-
+R
+é
+m
+i
+Saint-Rémis÷›
+numnode : 10, len 14
+B
+e
+a
+u
+h
+a
+r
+n
+o
+i
+s
+Beauharnois÷›
+numnode : 11, len 14
+C
+h
+â
+t
+e
+a
+u
+g
+u
+a
+y
+Châteauguay÷›
+numnode : 11, len 14
+L
+a
+ 
+P
+r
+a
+i
+r
+i
+e
+La Prairies÷›
+numnode : 10, len 14
+M
+o
+n
+t
+r
+é
+a
+l
+MontréalØhs÷›
+numnode : 8, len 14
+L
+o
+n
+g
+u
+e
+u
+i
+l
+Longueuilhs÷›
+numnode : 9, len 14
+B
+o
+u
+c
+h
+e
+r
+v
+i
+l
+l
+e
+Boucherville›
+numnode : 12, len 14
+M
+i
+r
+a
+b
+e
+l
+Mirabel
+numnode : 7, len 7
+O
+k
+a
+Oka
+numnode : 3, len 3
+P
+l
+a
+i
+s
+a
+n
+c
+e
+Plaisancehs÷›
+numnode : 9, len 14
+N
+a
+m
+u
+r
+Namur
+numnode : 5, len 5
+N
+o
+t
+r
+e
+-
+D
+a
+m
+e
+-
+d
+u
+-
+L
+a
+u
+s
+Notre-Dame-du-Lausl
+numnode : 18, len 19
+G
+a
+t
+i
+n
+e
+a
+u
+GatineauØhs÷›
+numnode : 8, len 14
+A
+y
+l
+m
+e
+r
+Aylmer
+numnode : 6, len 6
+W
+a
+k
+e
+f
+i
+e
+l
+d
+Wakefieldhs÷›
+numnode : 9, len 14
+L
+u
+s
+k
+v
+i
+l
+l
+e
+Luskvillehs÷›
+numnode : 9, len 14
+B
+r
+y
+s
+o
+n
+Bryson
+numnode : 6, len 6
+C
+a
+m
+p
+b
+e
+l
+l
+'
+s
+ 
+B
+a
+y
+Campbell's Bay
+numnode : 14, len 14
+R
+e
+p
+e
+n
+t
+i
+g
+n
+y
+Repentignys÷›
+numnode : 10, len 14
+V
+e
+r
+c
+h
+è
+r
+e
+s
+Verchèreshs÷›
+numnode : 9, len 14
+L
+'
+A
+s
+s
+o
+m
+p
+t
+i
+o
+n
+L'Assomption›
+numnode : 12, len 14
+C
+r
+a
+b
+t
+r
+e
+e
+CrabtreeØhs÷›
+numnode : 8, len 14
+S
+a
+i
+n
+t
+-
+J
+a
+c
+q
+u
+e
+s
+Saint-Jacques
+numnode : 13, len 14
+R
+a
+w
+d
+o
+n
+Rawdon
+numnode : 6, len 6
+S
+a
+i
+n
+t
+-
+L
+i
+n
+-
+-
+L
+a
+u
+r
+e
+n
+t
+i
+d
+e
+s
+Saint-Lin--Laurentides
+numnode : 22, len 22
+B
+l
+a
+i
+n
+v
+i
+l
+l
+e
+Blainvilles÷›
+numnode : 10, len 14
+S
+a
+i
+n
+t
+e
+-
+A
+d
+è
+l
+e
+Sainte-Adèle›
+numnode : 12, len 14
+H
+u
+b
+e
+r
+d
+e
+a
+u
+Huberdeauhs÷›
+numnode : 9, len 14
+S
+a
+i
+n
+t
+-
+J
+o
+v
+i
+t
+e
+Saint-Jovite›
+numnode : 12, len 14
+M
+o
+n
+t
+-
+L
+a
+u
+r
+i
+e
+r
+Mont-Laurier›
+numnode : 12, len 14
+M
+a
+n
+i
+w
+a
+k
+i
+ManiwakiØhs÷›
+numnode : 8, len 14
+L
+a
+n
+o
+r
+a
+i
+e
+LanoraieØhs÷›
+numnode : 8, len 14
+H
+o
+w
+i
+c
+k
+Howick
+numnode : 6, len 6
+L
+o
+w
+Low
+numnode : 3, len 3
+start end map processing
+end glReadBuffer pixel
+end read pixel
+Three maps have been rendered using AGG in the current directory:
+- demo.jpg
+- demo.png
+- demo256.png
+- demo.tif
+Have a look!

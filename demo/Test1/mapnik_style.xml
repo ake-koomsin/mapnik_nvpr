@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map bgcolor="#ffffff" srs="+proj=latlong +datum=WGS84">
+	<FontSet name="book-fonts">
+		<Font face-name="DejaVu Sans Book" />
+	</FontSet>
+	<Style name="highways">
+		<Rule>
+			<Filter>[highway] &lt;&gt; ''</Filter>
+			<LineSymbolizer>
+				<CssParameter name="stroke">#808080</CssParameter>
+				<CssParameter name="stroke-width">2</CssParameter>
+				<CssParameter name="stroke-linejoin">round</CssParameter>
+				<CssParameter name="stroke-linecap">round</CssParameter>
+			</LineSymbolizer>
+		</Rule>
+
+
+	</Style>
+	<Layer name="highways" status="on" srs="+proj=latlong +datum=WGS84">
+		<StyleName>highways</StyleName>
+	  <Datasource>
+			<Parameter name="type">osm</Parameter>
+			<Parameter name="file">BY.osm.pbf</Parameter>
+		</Datasource>
+	</Layer>
+</Map>

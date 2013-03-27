@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python scons/scons.py --implicit-deps-changed configure "$@"
